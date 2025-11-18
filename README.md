@@ -1,62 +1,44 @@
-# Astro Starter Kit: Blog
+# Hi there 👋
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cloudflare/templates/tree/main/astro-blog-starter-template)
+## About Me
 
-![Astro Template Preview](https://github.com/withastro/astro/assets/2244813/ff10799f-a816-4703-b967-c78997e8323d)
+Senior Software Engineer with 10+ years building web applications and data platforms.
 
-<!-- dash-content-start -->
+Currently at **Booking Experts**, where I develop solutions for the recreation industry—from privacy compliance tools to reporting systems. Previously spent a decade at **Gladior** creating the Data Hub platform that integrates 20+ marketing platforms with connectors for Google Looker Studio, Power Query, and custom APIs.
 
-Create a blog with Astro and deploy it on Cloudflare Workers as a [static website](https://developers.cloudflare.com/workers/static-assets/).
+## 🛠️ Technical Focus
 
-Features:
+- Full-stack development (Ruby on Rails, React, Tailwind CSS)
+- Data integration and visualization
+- Design systems and component libraries
+- Privacy-compliant solutions (GDPR, consent management)
+- Google Tag Manager
 
-- ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
-- ✅ SEO-friendly with canonical URLs and OpenGraph data
-- ✅ Sitemap support
-- ✅ RSS Feed support
-- ✅ Markdown & MDX support
+## 💼 Notable Work
 
-<!-- dash-content-end -->
+- Built a consent management platform for vacation park websites
+- Created white-labeled marketing reporting systems
+- Led AWS migration for multiple applications
+- Developed custom integrations between various business systems
+- Creator & Lead Developer of the [Data Hub](https://datahub.gladior.com)
 
-## Getting Started
+## 🎓 Education
 
-Outside of this repo, you can start a new project with this template using [C3](https://developers.cloudflare.com/pages/get-started/c3/) (the `create-cloudflare` CLI):
+Bachelor of Art and Technology, Saxion University of Applied Sciences (2009-2013)
 
-```bash
-npm create cloudflare@latest -- --template=cloudflare/templates/astro-blog-starter-template
-```
+## 📫 Contact
 
-A live public deployment of this template is available at [https://astro-blog-starter-template.templates.workers.dev](https://astro-blog-starter-template.templates.workers.dev)
+- Email: [me@daannijkamp.com](mailto:me@daannijkamp.com)
+- LinkedIn: [linkedin.com/in/daannijkamp](https://www.linkedin.com/in/daannijkamp)
+- Website: [daannijkamp.com](https://www.daannijkamp.com)
+- Data Hub: [datahub.gladior.com](https://datahub.gladior.com)
+- Company: [bookingexperts.com](https://www.bookingexperts.com/nl/)
 
-## 🚀 Project Structure
+## 🌍 Languages
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+- English (Full Professional)
+- Dutch (Native or Bilingual)
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+---
 
-The `src/content/` directory contains "collections" of related Markdown and MDX documents. Use `getCollection()` to retrieve posts from `src/content/blog/`, and type-check your frontmatter using an optional schema. See [Astro's Content Collections docs](https://docs.astro.build/en/guides/content-collections/) to learn more.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                           | Action                                           |
-| :-------------------------------- | :----------------------------------------------- |
-| `npm install`                     | Installs dependencies                            |
-| `npm run dev`                     | Starts local dev server at `localhost:4321`      |
-| `npm run build`                   | Build your production site to `./dist/`          |
-| `npm run preview`                 | Preview your build locally, before deploying     |
-| `npm run astro ...`               | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help`         | Get help using the Astro CLI                     |
-| `npm run build && npm run deploy` | Deploy your production site to Cloudflare        |
-
-## 👀 Want to learn more?
-
-Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
-
-## Credit
-
-This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+*Outside work: music, concerts, art, and running.*
