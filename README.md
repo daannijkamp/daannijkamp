@@ -2,31 +2,43 @@
 
 ## About Me
 
-I'm passionate about building exceptional digital experiences that make an impact.
+Senior Software Engineer with 10+ years building web applications and data platforms.
 
-Graduated from Saxion University with a Bachelor of Art and Technology, combining creative thinking with technical expertise.
+Currently at **Booking Experts**, where I develop solutions for the recreation industry—from privacy compliance tools to reporting systems. Previously spent a decade at **Gladior** creating the Data Hub platform that integrates 20+ marketing platforms with connectors for Google Looker Studio, Power Query, and custom APIs.
 
-Currently crafting innovative solutions at Booking Experts, where I help shape the future of hospitality technology.
+## 🛠️ Technical Focus
 
-## 🌐 Website
+- Full-stack development (Ruby on Rails, React, Tailwind CSS)
+- Data integration and visualization
+- Design systems and component libraries
+- Privacy-compliant solutions (GDPR, consent management)
+- Google Tag Manager
 
-Visit my personal website at [daannijkamp.com](https://daannijkamp.com/)
+## 💼 Notable Work
 
-## 🛠️ Technologies & Tools
+- Built a consent management platform for vacation park websites
+- Created white-labeled marketing reporting systems
+- Led AWS migration for multiple applications
+- Developed custom integrations between various business systems
+- Creator & Lead Developer of the [Data Hub](https://datahub.gladior.com)
 
-- Web Development
-- Cloud Infrastructure
-- Modern JavaScript/TypeScript
-- Astro, React, and modern frameworks
+## 🎓 Education
 
-## 📫 Get in Touch
+Bachelor of Art and Technology, Saxion University of Applied Sciences (2009-2013)
 
-Feel free to reach out if you'd like to collaborate on a project or just want to connect!
+## 📫 Contact
 
-## 📊 GitHub Stats
+- Email: [me@daannijkamp.com](mailto:me@daannijkamp.com)
+- LinkedIn: [linkedin.com/in/daannijkamp](https://www.linkedin.com/in/daannijkamp)
+- Website: [daannijkamp.com](https://www.daannijkamp.com)
+- Data Hub: [datahub.gladior.com](https://datahub.gladior.com)
+- Company: [bookingexperts.com](https://www.bookingexperts.com/nl/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daannijkamp&show_icons=true&theme=default)
+## 🌍 Languages
+
+- English (Full Professional)
+- Dutch (Native or Bilingual)
 
 ---
 
-*This profile README is automatically displayed on my GitHub profile.*
+*Outside work: music, concerts, art, and running.*
