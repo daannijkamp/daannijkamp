@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm 34 years old and passionate about building exceptional digital experiences that make an impact.
+I'm passionate about building exceptional digital experiences that make an impact.
 
 Graduated from Saxion University with a Bachelor of Art and Technology, combining creative thinking with technical expertise.
 
