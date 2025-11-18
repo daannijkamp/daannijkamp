@@ -1,14 +1,16 @@
-# Hi there, I'm Daan Nijkamp 👋
+# Hi there 👋
 
-Welcome to my GitHub profile! I'm a developer passionate about building great software.
+## About Me
+
+I'm 34 years old and passionate about building exceptional digital experiences that make an impact.
+
+Graduated from Saxion University with a Bachelor of Art and Technology, combining creative thinking with technical expertise.
+
+Currently crafting innovative solutions at Booking Experts, where I help shape the future of hospitality technology.
 
 ## 🌐 Website
 
 Visit my personal website at [daannijkamp.com](https://daannijkamp.com/)
-
-## 💼 About Me
-
-I'm a software developer with a focus on creating efficient and scalable solutions. I enjoy working on challenging projects and continuously learning new technologies.
 
 ## 🛠️ Technologies & Tools
 
