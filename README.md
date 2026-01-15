@@ -20,7 +20,7 @@ Currently at **Booking Experts**, where I develop solutions for the recreation i
 - Created white-labeled marketing reporting systems
 - Led AWS migration for multiple applications
 - Developed custom integrations between various business systems
-- Creator & Lead Developer of the [Data Hub](https://datahub.gladior.com)
+- Creator of the [Data Hub](https://datahub.gladior.com)
 
 ## 🎓 Education
 
@@ -37,7 +37,7 @@ Bachelor of Art and Technology, Saxion University of Applied Sciences (2009-2013
 ## 🌍 Languages
 
 - English (Full Professional)
-- Dutch (Native or Bilingual)
+- Dutch (Native)
 
 ---
 
